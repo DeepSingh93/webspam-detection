@@ -1,8 +1,6 @@
-# Know your neighbor: Web Spam detection using web
+# Know your neighbor: Web Spam detection using web topology
 
-# topology
-
-### Deep Prakash Singh, #B
+### Deep Prakash Singh
 
 ### Faculty of Computer Science, Dalhousie University
 
@@ -83,12 +81,6 @@ nodes. You can see that the similar web pages are linked to each other (i.e. spa
 linked back to the spam nodes and non spam are linked back to the non spam nodes. Most of
 the other connected components represents a single class.
 
-
-```
-Figure 1: Graphical depiction of the host graph (undirected), pruned to only include the labelled nodes of 100 links between
-them (Source: Castillo et al, ” Know your Neighbors: Web Spam Detection using the Web Topology”, SIGR’07, July 23-27, 2007,
-Amsterdam, The Netherlands, pp 423-430)
-```
 This paper is organized as follows
 
 1. Section 2 depicts the important keywords which will be used in this paper
