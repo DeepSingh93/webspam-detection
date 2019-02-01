@@ -395,9 +395,7 @@ labelled as non spam. All non spam nodes were labelled as non spam, but some of 
 nodes were labelled as non-spam.
 
 Further research can be conducted by implementing some tree optimization techniques and
-how some of the tree optimizations can be improved by implementing some smoothing
-
-## techniques for the same.
+how some of the tree optimizations can be improved by implementing some smoothing techniques for the same.
 
 ## 8. References
 
